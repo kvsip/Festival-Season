@@ -1,37 +1,17 @@
-## Welcome to GitHub Pages
+HAPPY DEEPAWALI DEAR READERS :-)
+Let's celebrate the festival of lights in a colourful way
+Deepawali is an indian celebration filled with joy and happiness
+Do you know the reason for celebrating deepawali?
+Let's see the reasons for celebrating deepawali--
+	Diwali is called the Festival of Lights and is celebrated to honor Rama-chandra, the seventh avatar (incarnation of the god Vishnu). 
+	It is believed that on this day Rama returned to his people after 14 years of exile during which he fought and won a battle against the demons and the demon king, Ravana.
+On this day people decorate their houses with colourful diyas and flowers.
+small kids and adults burn crackers to celebrate the festival.
+It's also said that Deepawali is celebrated to honour the goddesss Mahalakshmi(the goddess of wealth).
+Apart from the joyful celebration the burning of firecrackers have a bad impact on the environment.
+Some harmful chemicals used in it have a bad effect on human's health conditons, Metal salts commonly used in firework displays include: strontium carbonate (red fireworks), calcium chloride (orange fireworks), sodium nitrate (yellow fireworks), barium chloride (green fireworks) and copper chloride (blue fireworks).
+Those chemocals are dangeorus to human health and environment.
+    But it also has many good effects to people..Yes!! Burning crackers kills mosquitoes as it produces a huge amount of heat and light which is intolerable for the mosquitoes and they may die.
+The fire cracker industries get benefitted when people purchase fire crackers.There a lot of families who're only depended on the sales of crackers.
 
-You can use the [editor on GitHub](https://github.com/kvsip/Festival-Season/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/kvsip/Festival-Season/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+ BUT ANY WAY ITS A JOYFUL CELEBRATION LET'S BE HAPPY AND ENJOY THE FESTIVALS
